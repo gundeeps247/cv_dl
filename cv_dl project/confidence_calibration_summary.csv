@@ -1,0 +1,2 @@
+n,predicted_iou_actual_iou_corr,linear_slope,linear_intercept,failure_count_iou_lt_0_25,confident_failure_count
+499,0.5182278928653298,1.0651190907698114,-0.23182235752074543,66,22
