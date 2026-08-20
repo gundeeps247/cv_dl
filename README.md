@@ -148,4 +148,4 @@ This includes the primary and robustness tables, paired model deltas, bootstrap 
 
 - Tanner Schmidt and Richard Newcombe, [“Segment This Thing: Foveated Tokenization for Efficient Point-Prompted Segmentation,”](https://openaccess.thecvf.com/content/CVPR2025/html/Schmidt_Segment_This_Thing_Foveated_Tokenization_for_Efficient_Point-Prompted_Segmentation_CVPR_2025_paper.html) CVPR 2025.
 - Alexander Kirillov et al., [“Segment Anything,”](https://openaccess.thecvf.com/content/ICCV2023/html/Kirillov_Segment_Anything_ICCV_2023_paper.html) ICCV 2023.
-- Omkar M. Parkhi et al., [“Cats and Dogs,”](https://www.robots.ox.ac.uk/~vgg/publications/2012/Parkhi12a/) CVPR 2012.
+- Omkar M. Parkhi et al., [“Cats and Dogs,”]([https://www.robots.ox.ac.uk/~vgg/publications/2012/Parkhi12a/](https://ieeexplore.ieee.org/document/6248092)) CVPR 2012.
